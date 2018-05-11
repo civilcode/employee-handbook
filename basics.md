@@ -8,5 +8,5 @@ of 10 am and 4 pm; i.e. if you would like to finish at 4 pm, start work at 7:30 
 
 ## Vacations
 
-Vacation dates have to be planned at least 3 months in advance and approved by Management to 
-avoid resource planning conflicts.  Days have to be accrued in order to take vacation.
+Vacation request need to made least 2 months in advance by email and approved by Management to 
+avoid resource planning conflicts. Days have to be accrued in order to take vacation.
