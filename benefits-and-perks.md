@@ -12,6 +12,8 @@ Health insurance is provided by SunLife. The company pays 50% of the premium and
 
 During summer, we finish at noon on Fridays, aka "summer hours". Summer hours are in effect from July 1 through August 31 each year. (An employee who has just been hired may have to complete a training program per their team lead to be eligible). When a holiday occurs during summers hours, the Friday is a full working day.
 
+To be eligible to finish at noon, the employee must be present in the morning. If the employee wishes to take a vacation day on Friday, that will be counted as a full-day against their vacation allowance.
+
 ## Practical assistance
 
 ### Home Office Set-up
