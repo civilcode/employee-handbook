@@ -15,4 +15,9 @@ We encourage our employees to take regular vacation based on their annual allotm
 an accumulation of vacation time from the previous year, we may request for you to take vacation for
 a specified period. You will be given at least four weeks notice (based on the employment laws).
 
+Your available vacation time which is accumulated throughout the year appears on your pay stub
+in the unit of hours. To calculate the number of days, divide by 8. For example:
+
+    40 hours available / 8 = 5 days available
+
 For your rights regarding Vacation, visit the [CNESST website](https://www.cnt.gouv.qc.ca/en/leaves-and-absences/vacation/index.html).
